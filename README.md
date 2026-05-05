@@ -52,6 +52,8 @@ The objective of this project was to design a workflow that improves:
 
 ## System Architecture
 
+![Clinical Code Recommendation Workflow](architecture/clinical_code_architecture.png)
+
 The final solution uses a **multi-stage hybrid retrieval architecture**.
 
 ### Phase 1 — Query Understanding & Codelist Discovery
